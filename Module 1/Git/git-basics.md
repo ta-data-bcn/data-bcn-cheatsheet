@@ -75,18 +75,18 @@ $ git branch
 $ git branch [branch-name]
 ````
 - Switches to the specified branch and updates the working directory.
-```
+````
 $ git checkout [branch-name]
-```
+````
 - Creates a new branch, switches to it and updates the working directory.
-```
+````
 $ git checkout -b [branch-name]
-```
+````
 - Combines the specified branch’s history into the current branch.
-```
+````
 $ git merge [branch]
-```
+````
 - Deletes the specified branch.
 ````
 $ git branch -d [branch-name]
-```
+````

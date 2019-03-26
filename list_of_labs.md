@@ -38,3 +38,9 @@
 - [ ] [Intro to Zeppelin](https://github.com/ta-data-bcn/lab-intro-to-zeppelin)
 - [ ] [Linear regression and correlations](https://github.com/ta-data-bcn/lab-linear-regression-correlation)
 - [ ] [Advanced pandas](https://github.com/ta-data-bcn/lab-advanced-pandas)
+
+## Week 5
+- [ ] [Probability distribution & Central limit theorem](https://github.com/ta-data-bcn/lab-probability-dist)
+- [ ] [Reading about statistic concepts](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
+- [ ] [Confidence intervals](https://github.com/ta-data-bcn/lab-confidence-intervals)
+- [ ] [Intro to matplotlib & seaborn](https://github.com/ta-data-bcn/lab-matplotlib-seaborn)

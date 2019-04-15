@@ -4,11 +4,11 @@
 
 ## Introduction
 
-When working with machine learning algorithms, we might face many different problems. The goal of this lab is for you to deal with the most commons ML problems.
+When working with machine learning algorithms, we might face many different problems. The goal of this lab is for you to deal with the most common ML problems.
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to prepare a dataset for most scikit-learn algorithms.
+Open the `ipynb` files in `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to prepare a dataset for most scikit-learn algorithms.
 
 ## Deliverables
 

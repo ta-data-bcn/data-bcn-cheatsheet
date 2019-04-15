@@ -4,7 +4,7 @@
 
 ## Introduction
 
-When working with machine learning algorithms, we might face many kind of problems. The goal of this lab is for you to deal with the most commons ML problems.
+When working with machine learning algorithms, we might face many different problems. The goal of this lab is for you to deal with the most commons ML problems.
 
 ## Getting Started
 
